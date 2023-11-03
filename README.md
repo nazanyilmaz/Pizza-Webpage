@@ -10,9 +10,13 @@
 
 
 
-<img width="1465" alt="Screenshot 2023-10-31 at 4 46 09 PM" src="https://github.com/nazanyilmaz/Pizza-Webpage/assets/147782488/d46b0a47-9bf3-4803-8aef-ff37df8d1df3">
+<h1>Project gif</h1>
 
 
+
+
+
+https://github.com/nazanyilmaz/Pizza-Webpage/assets/147782488/60950d75-5586-4654-80c3-a5656084ec3f
 
 
 
