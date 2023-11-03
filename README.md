@@ -15,8 +15,8 @@
 
 
 
+https://github.com/nazanyilmaz/Pizza-Webpage/assets/147782488/005908e5-9730-4c4e-8a7e-92a7f3fd7b0d
 
-https://github.com/nazanyilmaz/Pizza-Webpage/assets/147782488/60950d75-5586-4654-80c3-a5656084ec3f
 
 
 
