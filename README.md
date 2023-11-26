@@ -12,10 +12,8 @@
 
 <h1>Project gif</h1>
 
+![ezgif com-optimize (14)](https://github.com/nazanyilmaz/Pizza-Webpage/assets/147782488/8b1de622-02f3-4a6b-a5de-5b677be696e3)
 
-
-
-https://github.com/nazanyilmaz/Pizza-Webpage/assets/147782488/005908e5-9730-4c4e-8a7e-92a7f3fd7b0d
 
 
 
